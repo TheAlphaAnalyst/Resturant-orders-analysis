@@ -3,3 +3,6 @@ An analysis of the orders made in a resturant within a short period of time, giv
 
 OBJECTIVES
 View the dataset, compare the orders table and give insights on the dishes that are to be focused on
+
+
+DATA USED 
